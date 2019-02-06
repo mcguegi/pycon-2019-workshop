@@ -1,0 +1,7 @@
+Flask==1.0.2
+pyserial==3.4
+requests==2.21.0
+matplotlib==3.0.2
+numpy==1.16.1
+scipy==1.2.0
+pandas==0.24.1
