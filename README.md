@@ -37,4 +37,10 @@ pandas==0.24.1 `
 6. Instalar los recursos necesarios en el entorno virtual con el comando <br>
 `pip install -r requirements.txt `
 
-7. Sigue con el resto del taller !
+7. Ahora debes crear los archivos (en blanco) que llenaremos más tarde . Los archivos son : 
+   - prueba.ino
+   - script.py
+   - pyserial_api.py
+   - flask_api.py
+   - data_analysis.py
+
